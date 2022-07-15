@@ -1,0 +1,15 @@
+#background {
+    background-color: rgb(215, 215, 215);
+}
+
+main ul li {
+    flex-flow: row, nowrap;
+    background-color: white;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(47, 47, 47);
+}
+
+button {
+    
+}
